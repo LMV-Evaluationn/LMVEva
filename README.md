@@ -3,7 +3,7 @@ Proyect of TEA  Emission
 Integrantes 
 Josue Quinto 24212
 Delmy Guevara 24254
-
+Kevin Castellanos 24007
 
 
 
