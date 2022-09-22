@@ -28,3 +28,4 @@ Datos de Zamorano
 El URL de la fuente de datos (data source o dataset) se encuentra en el siguiente URL: 
 https://www.fao.org/faostat/es/#data/EM
 REFERENCIAS 
+FAO(2022).Distribucion de emisiones. Recovered from [https://www.fao.org/faostat/es/#data/EM]
