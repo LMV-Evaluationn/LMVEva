@@ -1,0 +1,9 @@
+Codigo Ámbito;Ámbito;Codigo área (M49);Área;Codigo Elemento;Elemento;Codigo Producto;Producto;Codigo año;Año;Unidad;Valor;Simbolo;Descripcion del Simbolo
+EM;Distribucion de emisiones;340;Honduras;7264;Cuota en las emisiones totales de CO2;6517;Pre y post-produccion;2018;2018;porcentaje;10.1316;E;Valor estimado
+EM;Distribucion de emisiones;340;Honduras;7264;Cuota en las emisiones totales de CO2;6517;Pre y post-produccion;2019;2019;porcentaje;9.0066;E;Valor estimado
+EM;Distribucion de emisiones;340;Honduras;7273;Emisiones (CO2);6517;Pre y post-produccion;2018;2018;mil toneladas;1637.6456;E;Valor estimado
+EM;Distribucion de emisiones;340;Honduras;7273;Emisiones (CO2);6517;Pre y post-produccion;2019;2019;mil toneladas;1557.513;E;Valor estimado
+EM;Distribucion de emisiones;340;Honduras;7225;Emisiones (CH4);6517;Pre y post-produccion;2018;2018;mil toneladas;78.295;E;Valor estimado
+EM;Distribucion de emisiones;340;Honduras;7225;Emisiones (CH4);6517;Pre y post-produccion;2019;2019;mil toneladas;79.0638;E;Valor estimado
+EM;Distribucion de emisiones;340;Honduras;7230;Emisiones (N2O);6517;Pre y post-produccion;2018;2018;mil toneladas;0.2614;E;Valor estimado
+EM;Distribucion de emisiones;340;Honduras;7230;Emisiones (N2O);6517;Pre y post-produccion;2019;2019;mil toneladas;0.2623;E;Valor estimado
