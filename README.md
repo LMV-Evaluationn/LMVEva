@@ -66,7 +66,7 @@ Se recopilaran datos de la pagina Ofical de FAO
 El URL de la fuente de datos (data source o dataset) se encuentra en el siguiente URL: 
 https://www.fao.org/faostat/es/#data/GT
 
-Nuestra base de datos limpia la pueden encontrar arriba en los archivos que se encuentran como (DatosTea).
+Nuestra base de datos limpia la pueden encontrar arriba en los archivos que se encuentran como (DatosTea.csv).
 
 ## REFERENCIAS 
 
