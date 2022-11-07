@@ -50,8 +50,13 @@ Para este proyecto utilizaremos las herramientas y programas como ser: el lengua
 1. Josue Quinto 24212
 2. Delmy Guevara 24254
 3. Kevin Castellanos 24007
-5. Esdras Argote 24028
-6. Andres Godoy 24019
+4. Esdras Argote 24028
+5. Andres Godoy 24019
+6. Diego Rodriguez 24218
+7. Alvaro Avila 24027
+8. Ana Arita 24012
+9. Edwin Reyes 24131
+
 
 ## FUENTES DE DATOS 
 
