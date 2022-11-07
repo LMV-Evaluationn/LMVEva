@@ -7,17 +7,22 @@ Actualmente las emisiones de gases de efecto invernadero son un problema mundial
 
 ## SOLUCION DEL PROBLEMA 
 
-La solución propuesta a este proyecto es utilizar Python como lenguaje de programación, utilizaremos Visual Studio Code para editar códigos de fuentes y organizar la data que tendremos de emisiones, ya sea por temporadas del año y por ultimo los resultados serán presentados en Dash report. Utilizamos Jupyter para las tablas y graficas. 
+La solución propuesta a este proyecto es utilizar Python como lenguaje de programación, utilizaremos Visual Studio Code para editar códigos de fuentes y organizar la data que tendremos de emisiones, ya sea por temporadas del año y por ultimo los resultados serán presentados en Dash report. Utilizamos Jupyter Notebook para las tablas y gráficas. 
 
 ## OBJETIVOS
 
 El proyecto incluye los siguientes objetivos:
 
 1.	Utilizar VSC para editar códigos de fuentes de data. 
+
 2.	Integración de data a programas que nos facilitaran su lectura y entendimiento como Jupyter, por medio de gráficos.
+
 3.	Presentar graficas obtenidas después de computarizarlo. 
+
 4.	Automatizar los datos de emisiones de gases en países de Centroamérica programa para así se facilite al buscar la información, ya sea organizándolo en VSC. 
+
 5.	 Subir a GitHub en un repositorio todo nuestro proyecto. 
+
 6.	Mostrar cuales son los factores o actividades que hacen que el porcentaje de emisiones de gases de efecto invernadero aumenten. 
 
 
@@ -38,11 +43,11 @@ Para este proyecto utilizaremos las herramientas y programas como ser: el lengua
 
 ## Concluciones
 
-1. Mediante Python, Jupyter Notebook, realizamos un algoritmo que nos permitio realizar una comparación de cuales de los paise centroamericanos emiten más GEI.
+1. Mediante Python, Jupyter Notebook, realizamos un algoritmo que nos permitio realizar una comparación de cuales de los países centroamericanos emiten más GEI.
 
 2. Se realizó una comparación de Honduras con Nicaragua, Guatemala y El Salvador, para determinar sus emisiones de GEI.
 
-3. Se determino que se hace más fácil gráficar dichas comparaciones con Jupyter Notebook, ya que es de fácil manejo.
+3. Se determinó que se hace más fácil gráficar dichas comparaciones con Jupyter Notebook, ya que es de fácil manejo.
 
 
 ## Integrantes 
@@ -52,10 +57,7 @@ Para este proyecto utilizaremos las herramientas y programas como ser: el lengua
 3. Kevin Castellanos 24007
 4. Esdras Argote 24028
 5. Andres Godoy 24019
-6. Diego Rodriguez 24218
-7. Alvaro Avila 24027
-8. Ana Arita 24012
-9. Edwin Reyes 24131
+
 
 
 ## FUENTES DE DATOS 
@@ -63,6 +65,8 @@ Para este proyecto utilizaremos las herramientas y programas como ser: el lengua
 Se recopilaran datos de la pagina Ofical de FAO 
 El URL de la fuente de datos (data source o dataset) se encuentra en el siguiente URL: 
 https://www.fao.org/faostat/es/#data/GT
+
+Nuestra base de datos limpia la pueden encontrar arriba en los archivos que se encuentran como (DatosTea).
 
 ## REFERENCIAS 
 
