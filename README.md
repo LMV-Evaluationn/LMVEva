@@ -61,9 +61,8 @@ Para este proyecto utilizaremos las herramientas y programas como ser: el lengua
 ## FUENTES DE DATOS 
 
 Se recopilaran datos de la pagina Ofical de FAO 
-Datos de Zamorano 
 El URL de la fuente de datos (data source o dataset) se encuentra en el siguiente URL: 
-https://www.fao.org/faostat/es/#data/EM
+https://www.fao.org/faostat/es/#data/GT
 
 ## REFERENCIAS 
 
