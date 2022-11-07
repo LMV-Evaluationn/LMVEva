@@ -1,12 +1,5 @@
 # LMVEva
 Proyect of TEA  Emission 
-Integrantes 
-Josue Quinto 24212
-Delmy Guevara 24254
-Kevin Castellanos 24007
-Esdras Argote 24028
-Andres Godoy 24019
-
 
 ## PROBLEMA
 
@@ -49,6 +42,15 @@ Para este proyecto utilizaremos las herramientas y programas como ser: el lengua
 2. Se realizó una comparación de Honduras con Nicaragua, Guatemala y El Salvador, para determinar sus emisiones de GEI.
 
 3. Se determino que se hace más fácil gráficar dichas comparaciones con Jupyter Notebook, ya que es de fácil manejo.
+
+
+## Integrantes 
+
+1. Josue Quinto 24212
+2. Delmy Guevara 24254
+3. Kevin Castellanos 24007
+5. Esdras Argote 24028
+6. Andres Godoy 24019
 
 ## FUENTES DE DATOS 
 
