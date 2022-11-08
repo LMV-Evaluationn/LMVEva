@@ -43,9 +43,9 @@ Para este proyecto utilizaremos las herramientas y programas como ser: el lengua
 
 ## Concluciones
 
-1. Mediante Python, Jupyter Notebook, realizamos un algoritmo que nos permitio realizar una comparación de cuales de los países centroamericanos emiten más GEI.
+1. Mediante Python, Jupyter Notebook, realizamos un algoritmo que nos permitio realizar una comparación de cuales de los países centroamericanos emiten más emisiones.
 
-2. Se realizó una comparación de Honduras con Nicaragua, Guatemala y El Salvador, para determinar sus emisiones de GEI.
+2. Se realizó una comparación de Honduras con Nicaragua, Guatemala y El Salvador, para determinar sus emisiones.
 
 3. Se determinó que se hace más fácil gráficar dichas comparaciones con Jupyter Notebook, ya que es de fácil manejo.
 
