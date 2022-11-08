@@ -49,6 +49,9 @@ Para este proyecto utilizaremos las herramientas y programas como ser: el lengua
 
 3. Se determinó que se hace más fácil gráficar dichas comparaciones con Jupyter Notebook, ya que es de fácil manejo.
 
+4. Se realizó 3 gráficas que nos permiten ver la distribuciones de emisiones.
+
+5. Se agregó a GitHub todos los detalles que se realizaron en el desarrollo de nuestro proyecto.
 
 ## Integrantes 
 
