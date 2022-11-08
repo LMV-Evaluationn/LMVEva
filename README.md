@@ -41,6 +41,10 @@ Para este proyecto utilizaremos las herramientas y programas como ser: el lengua
 
 <img height="400" src="https://github.com/delmyguevara/TEA-Gr-fica/blob/main/Gr%C3%A1ficaProyecto.png" align="middle">
 
+##Interpretación
+
+Podemos observar  una comparación de emisiones de Honduras y Guatemala donde claramente vemos que Honduras emite más emiciones, ya que se encuentra por arriba de las emisiones generadas por Guatemala.
+
 ## Concluciones
 
 1. Mediante Python, Jupyter Notebook, realizamos un algoritmo que nos permitio realizar una comparación de cuales de los países centroamericanos emiten más emisiones.
